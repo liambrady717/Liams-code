@@ -1,0 +1,12 @@
+my.vendingMachine.StockFrame$1
+my.vendingMachine.StockFrame$2
+my.vendingMachine.StockFrame$11
+my.vendingMachine.StockFrame$10
+my.vendingMachine.StockFrame$9
+my.vendingMachine.StockFrame
+my.vendingMachine.StockFrame$7
+my.vendingMachine.StockFrame$8
+my.vendingMachine.StockFrame$5
+my.vendingMachine.StockFrame$6
+my.vendingMachine.StockFrame$3
+my.vendingMachine.StockFrame$4
